@@ -1,0 +1,23 @@
+{
+  "name": "chocho-ui",
+  "version": "0.0.0",
+  "description": "Just a UI library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanbgCN/chocho-ui.git"
+  },
+  "keywords": [
+    "React",
+    "UI"
+  ],
+  "author": "HanbgCN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HanbgCN/chocho-ui/issues"
+  },
+  "homepage": "https://github.com/HanbgCN/chocho-ui#readme"
+}
